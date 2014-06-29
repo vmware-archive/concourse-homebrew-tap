@@ -1,4 +1,11 @@
-homebrew-tap
-============
+# Concourse Homebrew Tap
 
-homebrew tap
+## Usage
+
+```
+brew tap concourse/tap
+```
+
+## Avaliable Formula
+
+* fly
